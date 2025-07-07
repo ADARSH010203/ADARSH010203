@@ -25,52 +25,61 @@
 | ⚙️ Tools        | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black) |
 
 ---
-<h3 align="center">🚀 Featured Projects</h3>
+<h2 align="center">🔥 Featured Projects</h2>
+<p align="center"><i>AI • ML • NLP • Flutter • OpenCV • Streamlit</i></p>
+<br/>
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ADARSH010203/MCP_WITH_A2A" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=MCP_WITH_A2A&theme=radical" />
-      </a>
-      <p><b>MCP_WITH_A2A</b><br>Multi-agent AI system using A2A routing with Streamlit UI to demonstrate agent collaboration and tool usage.</p>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ADARSH010203/Apna_Village" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Apna_Village&theme=radical" />
-      </a>
-      <p><b>Apna_Village</b><br>Flutter-based smart agriculture app with weather, profile, and task manager—designed to support rural empowerment and productivity.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ADARSH010203/face-detection" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=face-detection&theme=radical" />
-      </a>
-      <p><b>face-detection</b><br>Real-time face detection using OpenCV; includes notebooks for images and webcam-based video detection experiments.</p>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ADARSH010203/MACHINE-LEARNING" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=MACHINE-LEARNING&theme=radical" />
-      </a>
-      <p><b>MACHINE-LEARNING</b><br>Complete ML pipeline repository including data preprocessing, PCA dimensionality reduction, regression models, and XGBoost algorithms.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ADARSH010203/Document_Summaring" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Document_Summaring&theme=radical" />
-      </a>
-      <p><b>Document_Summaring</b><br>NLP-based summarizer that extracts key information from PDFs or URLs using transformer models and text preprocessing.</p>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ADARSH010203/Sign_Detection" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Sign_Detection&theme=radical" />
-      </a>
-      <p><b>Sign_Detection</b><br>Sign Language recognition system using OpenCV and a trained RandomForest model on sign language image dataset.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<!-- PROJECT 1 -->
+<a href="https://github.com/ADARSH010203/MCP_WITH_A2A" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=MCP_WITH_A2A&theme=react&border_color=61dafb" width="360px"/>
+</a>
+<p><strong>🤖 MCP_WITH_A2A</strong><br>
+<em>Multi-agent AI using A2A + RAG in Streamlit. Enables intelligent task delegation through agent-to-agent routing.</em></p>
+
+<!-- PROJECT 2 -->
+<a href="https://github.com/ADARSH010203/Apna_Village" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Apna_Village&theme=react&border_color=61dafb" width="360px"/>
+</a>
+<p><strong>🌾 Apna_Village</strong><br>
+<em>Smart Flutter app for rural India with agri-tasks, weather, todo, and farmer profile management.</em></p>
+
+<!-- PROJECT 3 -->
+<a href="https://github.com/ADARSH010203/face-detection" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=face-detection&theme=react&border_color=61dafb" width="360px"/>
+</a>
+<p><strong>📷 Face Detection</strong><br>
+<em>OpenCV-powered real-time face detection with webcam + image notebooks. Live visualization of bounding boxes.</em></p>
+
+<!-- PROJECT 4 -->
+<a href="https://github.com/ADARSH010203/MACHINE-LEARNING" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=MACHINE-LEARNING&theme=react&border_color=61dafb" width="360px"/>
+</a>
+<p><strong>📊 MACHINE-LEARNING</strong><br>
+<em>ML pipeline with PCA, regression, and XGBoost. Includes preprocessing, analysis, and model comparison tools.</em></p>
+
+<!-- PROJECT 5 -->
+<a href="https://github.com/ADARSH010203/Document_Summaring" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Document_Summaring&theme=react&border_color=61dafb" width="360px"/>
+</a>
+<p><strong>📄 Document Summaring</strong><br>
+<em>AI-based document summarizer using transformers. Supports PDF & URL input. Outputs clean and crisp insights.</em></p>
+
+<!-- PROJECT 6 -->
+<a href="https://github.com/ADARSH010203/Sign_Detection" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Sign_Detection&theme=react&border_color=61dafb" width="360px"/>
+</a>
+<p><strong>🧠 Sign Detection</strong><br>
+<em>Sign language recognizer using OpenCV + Random Forest. Detects alphabetic hand gestures from image frames.</em></p>
+
+<br/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF5F5F&center=true&vCenter=true&width=600&lines=Love+Building+Smart+Apps;Real+Projects+%7C+Real+Impact;Explore+More+Below..." />
+</p>
+
 
 
 ### 📈 GitHub Stats
