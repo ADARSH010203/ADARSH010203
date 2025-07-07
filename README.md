@@ -32,6 +32,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/ADARSH010203/MCP_WITH_A2A" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=MCP_WITH_A2A&theme=radical" />
+        <p>This project demonstrates communication between agents using the Agent-to-Agent (A2A) protocol in combination with the Model-Context-Protocol (MCP). It now includes a Streamlit frontend for easy interaction with the multi-agent system.</p>
       </a>
     </td>
     <td align="center" width="50%">
