@@ -29,40 +29,45 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/ADARSH010203/MCP_WITH_A2A" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=MCP_WITH_A2A&theme=radical" />
-        <p>This project demonstrates communication between agents using the Agent-to-Agent (A2A) protocol in combination with the Model-Context-Protocol (MCP). It now includes a Streamlit frontend for easy interaction with the multi-agent system.</p>
       </a>
+      <p><b>MCP_WITH_A2A</b><br>Multi-agent AI system using A2A routing with Streamlit UI to demonstrate agent collaboration and tool usage.</p>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/ADARSH010203/Apna_Village" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Apna_Village&theme=radical" />
       </a>
+      <p><b>Apna_Village</b><br>Flutter-based smart agriculture app with weather, profile, and task manager—designed to support rural empowerment and productivity.</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/ADARSH010203/face-detection" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=face-detection&theme=radical" />
       </a>
+      <p><b>face-detection</b><br>Real-time face detection using OpenCV; includes notebooks for images and webcam-based video detection experiments.</p>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/ADARSH010203/MACHINE-LEARNING" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=MACHINE-LEARNING&theme=radical" />
       </a>
+      <p><b>MACHINE-LEARNING</b><br>Complete ML pipeline repository including data preprocessing, PCA dimensionality reduction, regression models, and XGBoost algorithms.</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/ADARSH010203/Document_Summaring" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Document_Summaring&theme=radical" />
       </a>
+      <p><b>Document_Summaring</b><br>NLP-based summarizer that extracts key information from PDFs or URLs using transformer models and text preprocessing.</p>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/ADARSH010203/Sign_Detection" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Sign_Detection&theme=radical" />
       </a>
+      <p><b>Sign_Detection</b><br>Sign Language recognition system using OpenCV and a trained RandomForest model on sign language image dataset.</p>
     </td>
   </tr>
 </table>
