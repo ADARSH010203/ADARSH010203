@@ -25,19 +25,47 @@
 | ⚙️ Tools        | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black) |
 
 ---
+<h3 align="center">🚀 Featured Projects</h3>
 
-### 📌 Featured Projects
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ADARSH010203/MCP_WITH_A2A" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=MCP_WITH_A2A&theme=radical" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ADARSH010203/Apna_Village" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Apna_Village&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ADARSH010203/face-detection" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=face-detection&theme=radical" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ADARSH010203/MACHINE-LEARNING" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=MACHINE-LEARNING&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ADARSH010203/Document_Summaring" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Document_Summaring&theme=radical" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ADARSH010203/Sign_Detection" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADARSH010203&repo=Sign_Detection&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-| Project | Description |
-|--------|-------------|
-| 🔗 [MCP_WITH_A2A](https://github.com/ADARSH010203/MCP_WITH_A2A) | Multi-Agent AI system with A2A routing, RAG & Streamlit UI |
-| 🔗 [Apna_Village](https://github.com/ADARSH010203/Apna_Village) | Smart Flutter App for agriculture, weather, todo, and more |
-| 🔗 [face-detection](https://github.com/ADARSH010203/face-detection) | Real-time face detection using OpenCV |
-| 🔗 [MACHINE-LEARNING](https://github.com/ADARSH010203/MACHINE-LEARNING) | ML pipeline with preprocessing, PCA, regression & XGBoost |
-| 🔗 [Document_Summaring](https://github.com/ADARSH010203/Document_Summaring) | NLP-based PDF/URL summarizer |
-| 🔗 [Sign_Detection](https://github.com/ADARSH010203/Sign_Detection) | CNN-powered Sign Language Recognition |
-
----
 
 ### 📈 GitHub Stats
 
@@ -47,13 +75,24 @@
 </p>
 
 ---
-
-### 🔗 Let's Connect
+<h3 align="center">🤝 Let's Connect & Collaborate</h3>
+<p align="center">
+  <a href="mailto:adarshkumarsingh010203@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adarsh-kumar-singh010203/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ADARSH010203" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
-  <a href="mailto:adarshkumarsingh010203@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/adarsh-kumar-singh010203/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ADARSH010203"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Let%E2%80%99s+Build+Something+Together!;Open+to+Collab+%7C+Projects+%7C+Ideas+%7C+Innovation" alt="Typing SVG" />
 </p>
 
 ---
