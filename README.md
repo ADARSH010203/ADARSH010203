@@ -9,7 +9,7 @@
 - 🔭 Currently building **Self-Health Care Apps**: hydration, nutrition, todo, alarm, and exercises
 - 💬 Ask me about **Machine Learning, LangChain, RAG, Flutter UI, ChromaDB, NLP, OpenAI APIs**
 - 📍 Based in **India** | 🏀 Loves Basketball | 🎯 Passionate about Chess
-- 📫 Reach me at: **adarshkumarsingh010203@gmail.com**
+- 📫 Reach me at: **adarshkumarsbrhs@gmail.com**
 
 ---
 
